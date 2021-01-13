@@ -14,10 +14,10 @@
 
 I want to:
   - Make a full-fledged text-based library to make developing console-applications easier
-  - Finish [SimpleAE(https://github.com/VelvetThePanda/SimpleAE)]
+  - Finish [SimpleAE](https://github.com/VelvetThePanda/SimpleAE)
   - Make my own game engine, with working rendering, lighting, terrain generation, physics, and more
   - Make Fabric, a programming language
-  - Complete [Silk!(https://github.com/VelvetThePanda/Silk)]
+  - Complete [Silk!](https://github.com/VelvetThePanda/Silk)
   - Create a unified app to manage all my communications
 
 
