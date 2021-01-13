@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I'm a self-taught programmer!
 
 ![Prounouns](https://img.shields.io/badge/Prounouns-He%2FThey-brightgreen)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=velvetthepanda" alt="VelvetThePanda" /> </p> 
+
 
 
 # I have some *ambitious* projects. 
