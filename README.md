@@ -10,6 +10,16 @@
 ![Prounouns](https://img.shields.io/badge/Prounouns-He%2FThey-brightgreen)
 
 
+# I have some *ambitious* projects. 
+
+I want to:
+  - Make a full-fledged text-based library to make developing console-applications easier
+  - Finish [SimpleAE(https://github.com/VelvetThePanda/SimpleAE)]
+  - Make my own game engine, with working rendering, lighting, terrain generation, physics, and more
+  - Make Fabric, a programming language
+  - Complete [Silk!(https://github.com/VelvetThePanda/Silk)]
+  - Create a unified app to manage all my communications
+
 
 [![Velvet's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelvetThePanda&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
