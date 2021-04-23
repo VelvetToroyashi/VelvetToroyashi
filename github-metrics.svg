@@ -1104,7 +1104,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        688 Commits
+                        693 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1202,7 +1202,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                             </svg>
-                            17.3 MB used
+                            17.7 MB used
                         </div>
                     </section>
                     <section>
@@ -1245,11 +1245,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.40349968028954" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="449.40349968028954" y="0" width="4.134211527129418" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.53771120741897" y="0" width="4.132289085126567" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="457.67000029254547" y="0" width="1.8292035657119932" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.4992038582575" y="0" width="0.5007961417424847" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.40369895960237" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="449.40369895960237" y="0" width="4.134133778551384" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.5378327381537" y="0" width="4.132211372702255" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="457.67004411085594" y="0" width="1.8291691654460087" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.499213276302" y="0" width="0.5007867236980402" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1311,7 +1311,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"/>
                             </svg>
-                            ~3.55 commits per day
+                            ~3.58 commits per day
                         </div>
                     </section>
                 </div>
@@ -2282,10 +2282,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.928571428571429 0,2.928571428571429 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.928571428571429 1.7,3.928571428571429 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.785714285714285)">
-                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.2142857142857144 0,1.2142857142857142 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.2142857142857142 1.7,2.2142857142857144 z"/>
+                            <g transform="translate(-8.5, 9.714285714285715)">
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.2857142857142856 0,2.2857142857142856 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2857142857142856 1.7,3.2857142857142856 z"/>
                             </g>
                         </g>
                     </g>
@@ -2322,29 +2322,14 @@
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #2000154
+                                            #326a7bd
                                         </span>
                                         <span class="message">
-                                            See full commit message.
+                                            Fixed an issue with reminders not dequeing.
 
-CommandExecutionContext.cs :
- - Added CommandContext ctor overload.
- - Changed RespondAsync to expression body.
+Reminders would only dequeue if they existed in the internal list, otherwise it would immediately return.
 
- IInputService.cs :
- - Added GetInputAsync method.
-
- IMessage.cs :
- - Added DeleteAsync method.
- - Added EditAsync method.
-
- Silk.Shared.csproj :
- - Added DSharpPlus.CommandsNext package.
-
- RoleMenuCommand.cs :
- - Added GetTitleAsync method.
- - Added loop to get valid content for title.
- - Added list of messages for cleanup.
+I removed the references to the list which removed the element before calling RemoveReminderAsync(), which removed the reminders anyway.
                                         </span>
                                     </div>
                                 </div>
@@ -2372,38 +2357,10 @@ CommandExecutionContext.cs :
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #5574cff
+                                            #9903331
                                         </span>
                                         <span class="message">
-                                            Various changes | See full changelog
-
-- Added BotState enum
-- Added state to Bot class
-- Refactored logging to show yellow on black for warning
-- Changed Bot back to IHostedService
-                                        </span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">
-                                            #239 RemoveReactionRoleRequest needs implementation
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>
-                                        opened  in
-                                        <span class="repo">
-                                            VelvetThePanda/Silk
+                                            Update Bot.State
                                         </span>
                                     </div>
                                 </div>
@@ -2431,10 +2388,10 @@ CommandExecutionContext.cs :
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #a885039
+                                            #30ba7b7
                                         </span>
                                         <span class="message">
-                                            Update D#+ to latest 4.0 nightly
+                                            Remove extra whitespace (again).
                                         </span>
                                     </div>
                                 </div>
@@ -2447,7 +2404,7 @@ CommandExecutionContext.cs :
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">
                                             VelvetThePanda/Silk
                                         </span>
@@ -2462,26 +2419,41 @@ CommandExecutionContext.cs :
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #d4d3464
+                                            #2f273b6
                                         </span>
                                         <span class="message">
-                                            Bump DSharpPlus from 4.0.1-nightly-00837 to 4.0.1-nightly-00839
-
-Bumps [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) from 4.0.1-nightly-00837 to 4.0.1-nightly-00839.
-- [Release notes](https://github.com/DSharpPlus/DSharpPlus/releases)
-- [Commits](https://github.com/DSharpPlus/DSharpPlus/commits)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+                                            Format and reorder the other Startup.cs
+                                        </span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">
+                                            VelvetThePanda/Silk
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>
+                                        on branch
+                                        <span class="code">
+                                            development
                                         </span>
                                     </div>
                                     <div class="commit">
                                         <span class="sha">
-                                            #d13a4b5
+                                            #ef7ee48
                                         </span>
                                         <span class="message">
-                                            Merge pull request #233 from VelvetThePanda/dependabot/nuget/development/DSharpPlus-4.0.1-nightly-00839
-
-Bump DSharpPlus from 4.0.1-nightly-00837 to 4.0.1-nightly-00839
+                                            Remove uncessary CancelationToken in Startup.cs
                                         </span>
                                     </div>
                                 </div>
@@ -2495,7 +2467,7 @@ Bump DSharpPlus from 4.0.1-nightly-00837 to 4.0.1-nightly-00839
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Fri, 23 Apr 2021 06:01:34 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 23 Apr 2021 07:05:32 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
