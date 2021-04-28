@@ -2492,7 +2492,7 @@ Messages now set their state to deleted before making the REST call, which would
                     These metrics include private contributions, timezone America/New_York
                 </span>
                 <span>
-                    Last updated Wed, 28 Apr 2021 03:06:49 GMT with lowlighter/metrics@3.7.0
+                    Last updated Wed, 28 Apr 2021 04:03:03 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
