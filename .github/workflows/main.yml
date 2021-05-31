@@ -21,7 +21,6 @@ jobs:
           user: VelvetThePanda
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
           config_timezone: America/New_York
           plugin_activity: yes
           plugin_activity_days: 14
