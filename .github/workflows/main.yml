@@ -32,3 +32,13 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: Batchfile Python
           plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_projects: yes
+          plugin_projects_repositories: velvetthepanda/silk/projects/1 # Display #1 project of lowlighter/metrics repository
+          plugin_projects_limit: 4                                    # Limit to 4 entries
+          plugin_projects_descriptions: yes                           # Display projects descriptions
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user #
+          plugin_notable: yes
+          plugin_notable_filter: stars:>10 # Only display repositories with 500 stars or more (syntax based on GitHub search query)
+          plugin_notable_repositories: yes 
