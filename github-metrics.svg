@@ -1497,7 +1497,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.2 characters per line of code written</li>
+                        <li>Has approximately 44.3 characters per line of code written</li>
                         <li>Mostly pushes code around 19:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -1522,13 +1522,13 @@
               02
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 13.636363636363635px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               03
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               04
             </div>
                     <div class="entry">
@@ -1653,8 +1653,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">9</span>
-                <div class="bar" style="height: 12.857142857142856px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 15.714285714285714px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -2732,6 +2732,44 @@
                                 <div class="details">
                                     <div>on branch <span class="code">rewrite/feature/slash-commands</span></div>
                                     <div class="commit">
+                                        <span class="sha">#b26fe54</span>
+                                        <span class="message">Actually fix the issue</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rewrite/feature/slash-commands</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#5a6319e</span>
+                                        <span class="message">hoooopefully fix null refs on join???</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rewrite/feature/slash-commands</span></div>
+                                    <div class="commit">
                                         <span class="sha">#dd72ab4</span>
                                         <span class="message">Raw tag slash command</span>
                                     </div>
@@ -2776,50 +2814,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/feature/slash-commands</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#cebcad0</span>
-                                        <span class="message">Extension method.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/feature/slash-commands</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#85beaa5</span>
-                                        <span class="message">More tag stuff. Pain.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 10 Jun 2021 03:22:24 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 10 Jun 2021 04:18:43 (timezone America/New_York) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
