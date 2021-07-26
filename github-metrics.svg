@@ -1713,12 +1713,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.99247761366759%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.99247429319864%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Smalltalk</span>
-                            <div class="bar" style="width: 0.00752238633240268%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.007525706801357521%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2839,7 +2839,7 @@ I forgot to mention, those were both pre-emptive PRs that were merged prior to a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25/07/2021, 21:54 (timezone America/New_York) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 25/07/2021, 22:23 (timezone America/New_York) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
