@@ -1730,12 +1730,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.97499504269999%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.97502022891409%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.025004957300002354%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.024979771085914967%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2936,7 +2936,7 @@ Fix #57 and #255, add RequireFlags to all mod commands</span>
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 11/08/2021, 18:03 (timezone America/New_York) with lowlighter/metrics@3.12.0</span>
+                    <span>Last updated 11/08/2021, 19:03 (timezone America/New_York) with lowlighter/metrics@3.12.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
