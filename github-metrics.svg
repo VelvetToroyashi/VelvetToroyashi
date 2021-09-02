@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2002" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1612" class="">
     <defs>
         <style/>
     </defs>
@@ -1607,13 +1607,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 121 commits)</small>
+        <small class="h-details">(computed from last 127 commits)</small>
       
     </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.1 characters per line of code written</li>
+                        <li>Has approximately 38.9 characters per line of code written</li>
                         <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1643,8 +1643,8 @@
               03
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">6</span>
+              <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               04
             </div>
                     <div class="entry">
@@ -1750,37 +1750,37 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">11</span>
-                <div class="bar" style="height: 17.1875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 14.473684210526317px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
                 <span class="value">13</span>
-                <div class="bar" style="height: 20.3125px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 17.105263157894736px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
                 <span class="value">31</span>
-                <div class="bar" style="height: 48.4375px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 40.78947368421053px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
                 <span class="value">15</span>
-                <div class="bar" style="height: 23.4375px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 19.736842105263158px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">32</span>
+                <span class="value">38</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
                 <span class="value">17</span>
-                <div class="bar" style="height: 26.5625px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <div class="bar" style="height: 22.36842105263158px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
                 <span class="value">2</span>
-                <div class="bar" style="height: 3.125px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <div class="bar" style="height: 2.631578947368421px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1790,22 +1790,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.44947161580524%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.45580914966071%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">99%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.22881405255295623%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.22618000706812522%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.1733842917600889%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.17138833868921893%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.1483300398817129%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.14662250458195328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2853,143 +2853,17 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Created new
-                      branch  <span class="code">feature/music</span> in  <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 305 commits in <span class="repo">VelvetThePanda/Silk</span>
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">rewrite/feature/music</span></div>
+                                    <div>on branch <span class="code">feature/music</span></div>
                                     <div class="commit">
-                                        <span class="sha">#1a7854f</span>
-                                        <span class="message">Update _config.yml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b244211</span>
-                                        <span class="message">Set theme jekyll-theme-midnight</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5129a08</span>
-                                        <span class="message">Set theme jekyll-theme-midnight</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#df51c17</span>
-                                        <span class="message">Set theme jekyll-theme-midnight</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#01c2607</span>
-                                        <span class="message">Set theme jekyll-theme-minimal</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#41a48a9</span>
-                                        <span class="message">Set theme jekyll-theme-midnight</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2ffe72a</span>
-                                        <span class="message">Update _config.yml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#878e512</span>
-                                        <span class="message">Dark mode. That's all.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#100c340</span>
-                                        <span class="message">Screw you too, Jekyll.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b4cfd01</span>
-                                        <span class="message">Fix markdown bc GitHub is weird</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4fbf6c6</span>
-                                        <span class="message">Create rewrite.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0f38033</span>
-                                        <span class="message">Set theme jekyll-theme-minimal</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0678ac6</span>
-                                        <span class="message">Update CNAME</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d5c8b73</span>
-                                        <span class="message">Create CNAME</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#30c4588</span>
-                                        <span class="message">Merge pull request #258 from VelvetThePanda/dependabot/nuget/development/Humanizer-2.10.1
-
-Bump Humanizer from 2.9.9 to 2.10.1</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9177e61</span>
-                                        <span class="message">Merge pull request #250 from VelvetThePanda/dependabot/nuget/development/Svg.Skia-0.5.3
-
-Bump Svg.Skia from 0.5.0 to 0.5.3</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a851d65</span>
-                                        <span class="message">Measure heap instead of application</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5a992d3</span>
-                                        <span class="message">Move Silk default command prefix property to Silk.Shared StringConstants.cs file</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#189b75b</span>
-                                        <span class="message">Bump Humanizer from 2.9.9 to 2.10.1
-
-Bumps [Humanizer](https://github.com/Humanizr/Humanizer) from 2.9.9 to 2.10.1.
-- [Release notes](https://github.com/Humanizr/Humanizer/releases)
-- [Changelog](https://github.com/Humanizr/Humanizer/blob/main/release_notes.md)
-- [Commits](https://github.com/Humanizr/Humanizer/compare/v2.9.9...v2.10.1)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7615000</span>
-                                        <span class="message">Bump Svg.Skia from 0.5.0 to 0.5.3
-
-Bumps [Svg.Skia](https://github.com/wieslawsoltes/Svg.Skia) from 0.5.0 to 0.5.3.
-- [Release notes](https://github.com/wieslawsoltes/Svg.Skia/releases)
-- [Changelog](https://github.com/wieslawsoltes/Svg.Skia/blob/master/CHANGELOG.md)
-- [Commits](https://github.com/wieslawsoltes/Svg.Skia/compare/0.5.0...0.5.3)
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 4 commits in <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/api</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#cd9e41d</span>
-                                        <span class="message">Merge branch 'development' into feature/api</span>
+                                        <span class="sha">#4951025</span>
+                                        <span class="message">Move search routes next to eachother for swagger (Sorry Pokey)</span>
                                     </div>
                                 </div>
                             </section>
@@ -3005,10 +2879,10 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/api</span></div>
+                                    <div>on branch <span class="code">feature/music</span></div>
                                     <div class="commit">
-                                        <span class="sha">#19bac90</span>
-                                        <span class="message">Dead space is going to kill me</span>
+                                        <span class="sha">#c197274</span>
+                                        <span class="message">/bulk because swagger</span>
                                     </div>
                                 </div>
                             </section>
@@ -3020,26 +2894,52 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 4 commits in <span class="repo">VelvetThePanda/Silk</span>
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feature/api</span></div>
+                                    <div>on branch <span class="code">feature/music</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4257713</span>
-                                        <span class="message">No more hard-coded connection strings</span>
+                                        <span class="sha">#2c3244c</span>
+                                        <span class="message">Add missing endpoint and remove stringent comment</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/music</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a85fc41</span>
-                                        <span class="message">Make exceptions return 500</span>
+                                        <span class="sha">#a721176</span>
+                                        <span class="message">organize search endpoints</span>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/music</span></div>
                                     <div class="commit">
-                                        <span class="sha">#7f024d8</span>
-                                        <span class="message">Remove CryptoHelper.cs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#662f96a</span>
-                                        <span class="message">Implemenmt DELETE api/v1/Authentication</span>
+                                        <span class="sha">#1359fef</span>
+                                        <span class="message">Begin outlining music API endpoints</span>
                                     </div>
                                 </div>
                             </section>
@@ -3049,7 +2949,7 @@ Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/09/2021, 04:04 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 02/09/2021, 05:03 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
