@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2034" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1680" class="">
     <defs>
         <style/>
     </defs>
@@ -1613,7 +1613,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 34.6 characters per line of code written</li>
+                        <li>Has approximately 34.7 characters per line of code written</li>
                         <li>Mostly pushes code around 03:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1623,8 +1623,8 @@
                 <h3>Commit activity per hour of day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               00
             </div>
                     <div class="entry">
@@ -1663,13 +1663,13 @@
               07
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 17.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               08
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 7.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               09
             </div>
                     <div class="entry">
@@ -1790,12 +1790,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.88981034109757%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.88978053486736%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.11018965890243024%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.11021946513263485%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2810,6 +2810,44 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/music</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#cc26b83</span>
+                                        <span class="message">Command -&gt; MusicModule</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/music</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6df6891</span>
+                                        <span class="message">Rename music plugin file and add return logging to API</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                       Pushed 4 commits in <span class="repo">VelvetThePanda/Silk</span>
                     </div>
                                 </div>
@@ -2885,208 +2923,12 @@ This reverts commit 3042db1ceb4b2ab42033a5e21ed1823e9d9bd330.</span>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 27 commits in <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/music</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#2030033</span>
-                                        <span class="message">Fix null ref, redirect, and use string enum serialization
-
-- Fixes a null ref when providing invalid credentials on POST /authentication
-
-- Use JsonStringEnumConverter for enum types
-
-- Redirect `/` to swagger</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4dd63c7</span>
-                                        <span class="message">Delete CNAME</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8ea6dac</span>
-                                        <span class="message">[api build] swagger confuses me</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a39bc6f</span>
-                                        <span class="message">Merge remote-tracking branch 'origin/development' into development</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#96e09cd</span>
-                                        <span class="message">[api build] Because mergify sucks
-
-- Removed ApiResponseBase
-- Removed unused props in ApiSettings.cs
-- Add [JsonPropertyName] to AddInfraction, GetInfraction, GetInfractionByUser, and UpdateInfraction as per uwx's suggestion
-- Add missing/fix incorrect documentation, as pointed out by uwx
-- Add [Column] to InfractionEntity.cs as suggested by uwx
-- Remove name on GET /infractions/{id} (I forget why it was there, I'll fix it if need be</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d1716b7</span>
-                                        <span class="message">[api build] Because mergify sucks
-
-- Removed ApiResponseBase
-- Removed unused props in ApiSettings.cs
-- Add [JsonPropertyName] to AddInfraction, GetInfraction, GetInfractionByUser, and UpdateInfraction as per uwx's suggestion
-- Add missing/fix incorrect documentation, as pointed out by uwx
-- Add [Column] to InfractionEntity.cs as suggested by uwx
-- Remove name on GET /infractions/{id} (I forget why it was there, I'll fix it if need be</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0bd437b</span>
-                                        <span class="message">Merge pull request #386 from VelvetThePanda/feature/api
-
-Add API project/Introduce Silk! API</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#414aa5c</span>
-                                        <span class="message">Fix issues (and that stupid \)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3ab0192</span>
-                                        <span class="message">Remove YouTubeExplode</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c4c67b0</span>
-                                        <span class="message">Remove residual music plugin stuff</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#5450a7e</span>
-                                        <span class="message">Merge dev into api</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3042db1</span>
-                                        <span class="message">Remove music project and all music-related references</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c9196a6</span>
-                                        <span class="message">Merge pull request #385 from VelvetThePanda/dependabot/nuget/development/DSharpPlus.CommandsNext-4.2.0-nightly-00975
-
-Bump DSharpPlus.CommandsNext from 4.2.0-nightly-00972 to 4.2.0-nightly-00975</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#12fcbc4</span>
-                                        <span class="message">Merge pull request #383 from VelvetThePanda/dependabot/nuget/development/DSharpPlus.VoiceNext-4.2.0-nightly-00975
-
-Bump DSharpPlus.VoiceNext from 4.2.0-nightly-00972 to 4.2.0-nightly-00975</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#60c90b9</span>
-                                        <span class="message">Bump DSharpPlus.CommandsNext
-
-Bumps [DSharpPlus.CommandsNext](https://github.com/DSharpPlus/DSharpPlus) from 4.2.0-nightly-00972 to 4.2.0-nightly-00975.
-- [Release notes](https://github.com/DSharpPlus/DSharpPlus/releases)
-- [Commits](https://github.com/DSharpPlus/DSharpPlus/commits)
-
----
-updated-dependencies:
-- dependency-name: DSharpPlus.CommandsNext
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#852984b</span>
-                                        <span class="message">Bump DSharpPlus.VoiceNext
-
-Bumps [DSharpPlus.VoiceNext](https://github.com/DSharpPlus/DSharpPlus) from 4.2.0-nightly-00972 to 4.2.0-nightly-00975.
-- [Release notes](https://github.com/DSharpPlus/DSharpPlus/releases)
-- [Commits](https://github.com/DSharpPlus/DSharpPlus/commits)
-
----
-updated-dependencies:
-- dependency-name: DSharpPlus.VoiceNext
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d54fd63</span>
-                                        <span class="message">Merge pull request #382 from VelvetThePanda/dependabot/nuget/development/DSharpPlus.Interactivity-4.2.0-nightly-00975
-
-Bump DSharpPlus.Interactivity from 4.2.0-nightly-00972 to 4.2.0-nightly-00975</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c1f7c16</span>
-                                        <span class="message">Merge pull request #381 from VelvetThePanda/dependabot/nuget/development/DSharpPlus-4.2.0-nightly-00975
-
-Bump DSharpPlus from 4.2.0-nightly-00972 to 4.2.0-nightly-00975</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8a250f8</span>
-                                        <span class="message">Bump DSharpPlus.Interactivity
-
-Bumps [DSharpPlus.Interactivity](https://github.com/DSharpPlus/DSharpPlus) from 4.2.0-nightly-00972 to 4.2.0-nightly-00975.
-- [Release notes](https://github.com/DSharpPlus/DSharpPlus/releases)
-- [Commits](https://github.com/DSharpPlus/DSharpPlus/commits)
-
----
-updated-dependencies:
-- dependency-name: DSharpPlus.Interactivity
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#15826ca</span>
-                                        <span class="message">Bump DSharpPlus from 4.2.0-nightly-00972 to 4.2.0-nightly-00975
-
-Bumps [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus) from 4.2.0-nightly-00972 to 4.2.0-nightly-00975.
-- [Release notes](https://github.com/DSharpPlus/DSharpPlus/releases)
-- [Commits](https://github.com/DSharpPlus/DSharpPlus/commits)
-
----
-updated-dependencies:
-- dependency-name: DSharpPlus
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/music</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4b7d350</span>
-                                        <span class="message">Fix the null ref in a better way I think</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/09/2021, 08:06 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 10/09/2021, 09:12 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
