@@ -3049,7 +3049,7 @@ This should address a long-time bug introduced by #704, which was not fixed in 9
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21/09/2021, 02:04 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 21/09/2021, 03:03 (timezone America/New_York) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
