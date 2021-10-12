@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1941" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1587" class="">
     <defs>
         <style/>
     </defs>
@@ -1784,8 +1784,8 @@
               16
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 28.947368421052634px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               17
             </div>
                     <div class="entry">
@@ -1809,8 +1809,8 @@
               21
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 5.263157894736842px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               22
             </div>
                     <div class="entry">
@@ -1830,8 +1830,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">26</span>
-                <div class="bar" style="height: 41.935483870967744px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">27</span>
+                <div class="bar" style="height: 43.54838709677419px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1850,8 +1850,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">20</span>
-                <div class="bar" style="height: 32.25806451612903px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">19</span>
+                <div class="bar" style="height: 30.64516129032258px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1866,17 +1866,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.30099697546768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.30663242629267%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">99%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.5098141717386705%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.5057039853819942%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">GLSL</span>
-                            <div class="bar" style="width: 0.18918885279364722%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.1876635883253494%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2931,6 +2931,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/anti-spam</span></div>
                                     <div class="commit">
+                                        <span class="sha">#ca95aa8</span>
+                                        <span class="message">[build core] better command logging</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/Silk</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/anti-spam</span></div>
+                                    <div class="commit">
                                         <span class="sha">#6ebdeea</span>
                                         <span class="message">[build core] remove stupid default command that doesn't work</span>
                                     </div>
@@ -2988,127 +3007,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 171 commits in <span class="repo">VelvetThePanda/DSharpPlus</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/role-icons</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#05de2d7</span>
-                                        <span class="message">Updating examples in documentation (#6)
-
-The `CreateResponseAsync` method attributes where wrong and I had a
-problem understanding how to register a group, because the example
-doesn't mentioned the neded container, which inherits from
-`SlashCommandModule`.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#091026b</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9f9edf5</span>
-                                        <span class="message">Documentation (#3)
-
-* add badges
-
-* Copy and paste from old repo, change enums
-
-* remove old disclaimer about one slash commands</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9856efc</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#68c8c10</span>
-                                        <span class="message">Update README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#835763e</span>
-                                        <span class="message">fix xml docs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c31504c</span>
-                                        <span class="message">Update version</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d65fe8c</span>
-                                        <span class="message">Fixed null pointer when there's not SlashCommandConfiguration (#2)
-
-* Added support for service injecting
-
-* Fixed null pointer when there's not SlashCommandConfiguration
-
-Co-authored-by: stepesdrabes &lt;thezak49@gmail.com&gt;
-Co-authored-by: Adi Mathur &lt;65034167+IDoEverything@users.noreply.github.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#990336a</span>
-                                        <span class="message">Update version</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#35bcf92</span>
-                                        <span class="message">Merge branch 'master' of https://github.com/IDoEverything/DSharpPlus.SlashCommands</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#92a6135</span>
-                                        <span class="message">Update DSharpPlus.SlashCommands.csproj</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c58c310</span>
-                                        <span class="message">Added support for service injecting (#1)
-
-Co-authored-by: stepesdrabes &lt;thezak49@gmail.com&gt;</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7ac6597</span>
-                                        <span class="message">Update DSharpPlus.SlashCommands.csproj</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3b393b6</span>
-                                        <span class="message">Create LICENSE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#08ccf70</span>
-                                        <span class="message">Delete LICENSE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#68a7c92</span>
-                                        <span class="message">Create LICENSE</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ef6a3da</span>
-                                        <span class="message">Create README.md</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#988808d</span>
-                                        <span class="message">Add ability to have multiple command classes</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d04908b</span>
-                                        <span class="message">Add project files.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#53efa29</span>
-                                        <span class="message">Add .gitignore and .gitattributes.</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/10/2021, 22:22 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 11/10/2021, 23:03 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
