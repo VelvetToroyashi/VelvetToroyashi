@@ -1866,22 +1866,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 78.63405884584871%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 78.651880473544%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 1.1327653409678866%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.1179859911316885%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">GLSL</span>
-                            <div class="bar" style="width: 0.1310751612569418%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.1293650050639591%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.10210065192645994%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.10076853026034707%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3045,7 +3045,7 @@ I don't know why it complained about the supression operator, but, eh.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26/10/2021, 09:13 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 26/10/2021, 10:03 (timezone America/New_York) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
