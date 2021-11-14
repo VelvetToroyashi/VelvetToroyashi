@@ -1861,17 +1861,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.25224348894528%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.24132915807127%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">99%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.6611618603222433%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.6708122467757973%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.0865946507324708%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.08785859515293629%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -2992,7 +2992,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 14 Nov 2021, 13:04:43 (timezone America/New_York) with lowlighter/metrics@3.15.0</span>
+                        <span>Last updated 14 Nov 2021, 14:03:12 (timezone America/New_York) with lowlighter/metrics@3.15.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
