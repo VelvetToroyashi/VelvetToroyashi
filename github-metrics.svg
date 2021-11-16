@@ -1805,7 +1805,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 36.1 characters per line of code written</li>
+                        <li>Has approximately 35.5 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1850,8 +1850,8 @@
               06
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               07
             </div>
                     <div class="entry">
@@ -1895,13 +1895,13 @@
               15
             </div>
                     <div class="entry">
-              <span class="value"></span>
-              <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               16
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               17
             </div>
                     <div class="entry">
@@ -1925,8 +1925,8 @@
               21
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               22
             </div>
                     <div class="entry">
@@ -3041,6 +3041,63 @@
                                 <div class="details">
                                     <div>on branch <span class="code">feature/scheduled-events</span></div>
                                     <div class="commit">
+                                        <span class="sha">#970052e</span>
+                                        <span class="message">Create event on channel</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/scheduled-events</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8446118</span>
+                                        <span class="message">Complete gateway methods</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/scheduled-events</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#55079f5</span>
+                                        <span class="message">Update and complete events in Dispatch</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/scheduled-events</span></div>
+                                    <div class="commit">
                                         <span class="sha">#e90587f</span>
                                         <span class="message">Eventual Consistency<img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
                       </span>
@@ -3066,69 +3123,12 @@
                                     </div>
                                 </section>
                             </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">feature/scheduled-events</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#2ace846</span>
-                                            <span class="message">I suck at parameters apparently</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">feature/scheduled-events</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#5d8d37c</span>
-                                            <span class="message">id</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                            <div class="row fill-width">
-                                <section class="activity">
-                                    <div class="field">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                        </svg>
-                                        <div class="content">
-                      Pushed 1 commit in <span class="repo">VelvetThePanda/DSharpPlus</span>
-                    </div>
-                                    </div>
-                                    <div class="details">
-                                        <div>on branch <span class="code">feature/scheduled-events</span></div>
-                                        <div class="commit">
-                                            <span class="sha">#551c333</span>
-                                            <span class="message">Create and delete events in DiscordClient.Dispatch</span>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
                         </div>
                     </section>
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 16 Nov 2021, 16:03:33 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 16 Nov 2021, 17:03:54 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
