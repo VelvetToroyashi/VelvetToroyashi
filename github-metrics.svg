@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1723" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1951" class="">
     <defs>
         <style/>
     </defs>
@@ -1799,13 +1799,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 148 commits)</small>
+        <small class="h-details">(computed from last 145 commits)</small>
       
     </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 43.9 characters per line of code written</li>
+                        <li>Has approximately 44.0 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1830,8 +1830,8 @@
               02
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               03
             </div>
                     <div class="entry">
@@ -1860,13 +1860,13 @@
               08
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               09
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1880,8 +1880,8 @@
               12
             </div>
                     <div class="entry">
-              <span class="value">5</span>
-              <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">4</span>
+              <div class="bar" style="height: 14.285714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               13
             </div>
                     <div class="entry">
@@ -1941,8 +1941,8 @@
                     <h3>Commit activity per day of week</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                <span class="value">24</span>
-                <div class="bar" style="height: 48px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">20</span>
+                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
@@ -1966,8 +1966,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">13</span>
-                <div class="bar" style="height: 26px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">14</span>
+                <div class="bar" style="height: 28.000000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1982,22 +1982,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.86299182451897%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.86098405201088%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.06521708680203757%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 0.06650546971833696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.06484356396811983%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 0.06552965582856451%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.006947524710869982%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.006980822442218213%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3021,6 +3021,177 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                                    </svg>
+                                    <div class="content">
+                      Updated 1 wiki page in <span class="repo">VelvetThePanda/Remora.Discord</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div class="page">
+                        test
+                      </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
+                                    </svg>
+                                    <div class="content">
+                      Updated 1 wiki page in <span class="repo">VelvetThePanda/Remora.Discord</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div class="page">
+                        Home
+                      </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 25 commits in <span class="repo">VelvetThePanda/Remora.Discord</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">test/wiki</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#44daf24</span>
+                                        <span class="message">Update signature of the data option.
+
+See discord/discord-api-docs#4233.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4e38f87</span>
+                                        <span class="message">Implement GuildID for IThreadMemberUpdate.
+
+See discord/discord-api-docs#4228.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0cae40b</span>
+                                        <span class="message">Update tests.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a5ca72a</span>
+                                        <span class="message">Merge pull request #135 from carlst99/m_ictxUpdate
+
+Add InteractionContext#Message</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ea44459</span>
+                                        <span class="message">Merge pull request #136 from carlst99/m_snowflakeParse
+
+Add DiscordSnowflake and fix Snowflake instantiation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d2068bd</span>
+                                        <span class="message">Add DiscordSnowflake and replace Snowflake instantiation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a4bae41</span>
+                                        <span class="message">Update docs.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#33cbd5a</span>
+                                        <span class="message">Add InteractionContext#Message</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#558901f</span>
+                                        <span class="message">Update versions.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a1d1697</span>
+                                        <span class="message">Some events are no longer experimental.
+
+See discord/discord-api-docs#4216.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8322504</span>
+                                        <span class="message">Implement new method to get guild members.
+
+See discord/discord-api-docs#4204.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#57db5f8</span>
+                                        <span class="message">Update nullability of IInvite::Channel.
+
+See discord/discord-api-docs#b966302.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#84ee4fa</span>
+                                        <span class="message">Implement new error code.
+
+See discord/discord-api-docs#4214.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#665f996</span>
+                                        <span class="message">Add new error code.
+
+See discord/discord-api-docs#4212.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#51847ff</span>
+                                        <span class="message">Implement GuildScheduledEvents in the audit log.
+
+See discord/discord-api-docs#4152.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#126e0f3</span>
+                                        <span class="message">Implement server boost bar.
+
+See discord/discord-api-docs#4001.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c3389a7</span>
+                                        <span class="message">Remove username and avatarUrl from CreateFollowupMessage.
+
+See discord/discord-api-docs#4119.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3208f87</span>
+                                        <span class="message">Update version.</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#2825f07</span>
+                                        <span class="message">Merge pull request #133 from VelvetThePanda/fix/channel-caching
+
+Fix channel caching on `GUILD_CREATE`</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#94e2141</span>
+                                        <span class="message">Use correct key + fix type check
+
++ Use the *channel* ID to cache
++ Add parantheses around is not `X or Y`</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Created new
+                      branch  <span class="code">test/wiki</span> in  <span class="repo">VelvetThePanda/Remora.Discord</span>
+                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -3036,112 +3207,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">VTPDevelopment/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/remora</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5131567</span>
-                                        <span class="message">Commentary.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a8d7d9d</span>
-                                        <span class="message">Remove unused import statements</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 5 commits in <span class="repo">VTPDevelopment/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/remora</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c270b6c</span>
-                                        <span class="message">Add guild member extensions</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#46a339a</span>
-                                        <span class="message">Omit default command responder, oops.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b828179</span>
-                                        <span class="message">Add UpdateGuild request, because it didn't exist before</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7fc03f7</span>
-                                        <span class="message">Missed one</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ea973ff</span>
-                                        <span class="message">Request consistencies and remove obsolete properties</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">VTPDevelopment/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/remora</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0c99eb8</span>
-                                        <span class="message">Add Message parser (should move to shared project)</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 2 commits in <span class="repo">VTPDevelopment/Silk</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rewrite/remora</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#aba7137</span>
-                                        <span class="message">Add command responder (with prefix resolving)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2928ae5</span>
-                                        <span class="message">Add prefixes back</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2021, 03:05:50 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 17 Dec 2021, 04:04:17 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
