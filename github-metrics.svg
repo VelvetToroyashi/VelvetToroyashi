@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1905" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1701" class="">
     <defs>
         <style/>
     </defs>
@@ -1807,7 +1807,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 45.0 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Thursday</li>
+                        <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
@@ -1875,8 +1875,8 @@
               11
             </div>
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 3.8461538461538463px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               12
             </div>
                     <div class="entry">
@@ -1890,8 +1890,8 @@
               14
             </div>
                     <div class="entry">
-              <span class="value">3</span>
-              <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">9</span>
+              <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               15
             </div>
                     <div class="entry">
@@ -1925,8 +1925,8 @@
               21
             </div>
                     <div class="entry">
-              <span class="value">8</span>
-              <div class="bar" style="height: 30.76923076923077px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               22
             </div>
                     <div class="entry">
@@ -1942,37 +1942,37 @@
                     <div class="chart-bars">
                         <div class="entry">
                 <span class="value">8</span>
-                <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 16px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
                         <div class="entry">
                 <span class="value">25</span>
-                <div class="bar" style="height: 48.07692307692308px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
                 <span class="value">9</span>
-                <div class="bar" style="height: 17.307692307692307px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 18px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">10</span>
-                <div class="bar" style="height: 19.230769230769234px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">7</span>
+                <div class="bar" style="height: 14.000000000000002px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">26</span>
-                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">23</span>
+                <div class="bar" style="height: 46px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">19</span>
-                <div class="bar" style="height: 36.53846153846153px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">25</span>
+                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
                 <span class="value">13</span>
-                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <div class="bar" style="height: 26px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1982,22 +1982,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 79.8996750082329%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.98554249124294%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.0774391846265921%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">Dockerfile</span>
+                            <div class="bar" style="width: 0.00829968095312465%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.014636272008462426%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.0037482430110885524%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.008249535132042459%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="name">CSS</span>
+                            <div class="bar" style="width: 0.0024095847928426407%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3024,22 +3024,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 3 commits in <span class="repo">VTPDevelopment/Silk</span>
+                      Pushed 1 commit in <span class="repo">VTPDevelopment/Silk</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">rewrite/remora</span></div>
                                     <div class="commit">
-                                        <span class="sha">#0a5aacf</span>
-                                        <span class="message">Formatting, because I suck.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fe5738a</span>
-                                        <span class="message">Implement mute command</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#517ae0c</span>
-                                        <span class="message">Fix permission calculations in InfractionService</span>
+                                        <span class="sha">#ca52f9f</span>
+                                        <span class="message">Remove redundant using statements in the main project</span>
                                     </div>
                                 </div>
                             </section>
@@ -3057,8 +3049,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">rewrite/remora</span></div>
                                     <div class="commit">
-                                        <span class="sha">#a13d076</span>
-                                        <span class="message">Document bug with current help formatter</span>
+                                        <span class="sha">#7cf4815</span>
+                                        <span class="message">Fix broken commands.</span>
                                     </div>
                                 </div>
                             </section>
@@ -3070,72 +3062,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Pushed 15 commits in <span class="repo">VTPDevelopment/Silk</span>
+                      Pushed 4 commits in <span class="repo">VTPDevelopment/Silk</span>
                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">rewrite/remora</span></div>
                                     <div class="commit">
-                                        <span class="sha">#8c7fc71</span>
-                                        <span class="message">Adjust spacing in help embeds</span>
+                                        <span class="sha">#d0f3f1b</span>
+                                        <span class="message">Begin work on config commands</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#675ab20</span>
-                                        <span class="message">Implement basic D#+ style interactivity (untested)</span>
+                                        <span class="sha">#7bc0cc1</span>
+                                        <span class="message">Use IsDefined in favor of .Entity</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#1a3fff9</span>
-                                        <span class="message">Implement KickCommand</span>
+                                        <span class="sha">#795a12f</span>
+                                        <span class="message">Update mute command as indefinite mutes aren't feasible right now.</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#0896e57</span>
-                                        <span class="message">Simplify BanCommand by using [NonSelfActionable]</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c254f82</span>
-                                        <span class="message">Adjust HelpCommandFormatter to use string.IsNullOrEmpty</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7866aa3</span>
-                                        <span class="message">Remove reference to ICacheUpdaterService</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#2650701</span>
-                                        <span class="message">Comment out ConfigTestCommand. It's just for reference.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3b1247d</span>
-                                        <span class="message">Remove ICacheUpdaterService</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ab6425f</span>
-                                        <span class="message">Add DateTime and mentionable entity extensions</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#82ddd70</span>
-                                        <span class="message">Implement cases command (needs pagination)</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#893e03e</span>
-                                        <span class="message">Add conditions to container</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7b3fc4f</span>
-                                        <span class="message">Add NonSelfActionable condition and attribute</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9d445d7</span>
-                                        <span class="message">Merge tempban into ban w/ optional parameter</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#c27e70b</span>
-                                        <span class="message">Fix discrim formatting in InfractionService</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7e3ef62</span>
-                                        <span class="message">Fix how help formatter handles options
-
-It now shows both long and short formats for options and switches</span>
+                                        <span class="sha">#bc2fe3c</span>
+                                        <span class="message">formatting, ree.</span>
                                     </div>
                                 </div>
                             </section>
@@ -3144,20 +3090,18 @@ It now shows both long and short formats for options and switches</span>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Commented on <span class="issue">#62 Issue with /dl-link as elevetade guild member intent does not work</span>
+                      Pushed 1 commit in <span class="repo">VTPDevelopment/Silk</span>
                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Alteraner in <span class="repo">Eco-DiscordLink/EcoDiscordPlugin</span></div>
-                                    <div class="comment"><i>
-I was using the latest tagged commit. didn't want to hazard a bleeding edge build, as I know from experience how much that can break something ;p
-</i>
-We try to not introduce breaking changes without notification. 
-Hopefully some testing will be underway and a stable release of 4.2.0 will be pushed soon. 👍🏽 
-</div>
+                                    <div>on branch <span class="code">rewrite/remora</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#4577bb2</span>
+                                        <span class="message">Implement unmute command</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3165,11 +3109,18 @@ Hopefully some testing will be underway and a stable release of 4.2.0 will be pu
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                      Starred <span class="repo">Handy-Hangout-Studios/Recognizers.Text.Wrapper</span>
+                      Pushed 1 commit in <span class="repo">VTPDevelopment/Silk</span>
                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">rewrite/remora</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#8ba67f1</span>
+                                        <span class="message">Lighten error messages and attempt to update mutes when re-muting.</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3178,7 +3129,7 @@ Hopefully some testing will be underway and a stable release of 4.2.0 will be pu
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2021, 15:05:16 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 31 Dec 2021, 16:03:25 (timezone America/New_York) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
