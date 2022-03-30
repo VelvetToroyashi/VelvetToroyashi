@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1748" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1998" class="">
     <defs>
         <style/>
     </defs>
@@ -471,9 +471,9 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 42.2 characters per line of code written</li>
+                        <li>Has approximately 41.8 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Monday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -497,8 +497,8 @@
                             02
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 10.526315789473683px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 15.789473684210526px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             03
                         </div>
                         <div class="entry">
@@ -567,8 +567,8 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
-                            <div class="bar" style="height: 26.31578947368421px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 21.052631578947366px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             17
                         </div>
                         <div class="entry">
@@ -609,37 +609,37 @@
                         <div class="chart-bars">
                             <div class="entry">
                                 <span class="value">15</span>
-                                <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.846153846153843px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">27</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">25</span>
+                                <div class="bar" style="height: 48.07692307692308px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">25</span>
-                                <div class="bar" style="height: 46.2962962962963px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 48.07692307692308px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 20.37037037037037px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">13</span>
+                                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">26</span>
-                                <div class="bar" style="height: 48.148148148148145px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">4</span>
-                                <div class="bar" style="height: 7.4074074074074066px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -649,12 +649,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 79.8664564592414%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 79.88391028845069%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">100%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.1335435407586015%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.11608971154931395%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1729,6 +1729,238 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">feature/new-infraction-api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6e8388b</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/feature/new-infraction-api' into feature/new-infraction-api
+
+# Conflicts:
+#	src/Silk/Services/Guild/InfractionServiceV2.cs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2eb94a1</div>
+                                        <div class="message">German quality implementation, truly.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 55 commits in
+                                        <span class="repo">VTPDevelopment/Silk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feature/new-infraction-api</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#972c3bc</div>
+                                        <div class="message">Merge pull request #661 from VTPDevelopment/dependabot/nuget/development/Config.Net.Json-4.19.0
+
+build(deps): Bump Config.Net.Json from 4.17.0 to 4.19.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1c504b</div>
+                                        <div class="message">Merge pull request #660 from VTPDevelopment/dependabot/nuget/development/NUnit-3.13.3
+
+build(deps): Bump NUnit from 3.13.2 to 3.13.3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec4701e</div>
+                                        <div class="message">Merge pull request #659 from VTPDevelopment/dependabot/nuget/development/Microsoft.Extensions.Configuration-6.0.1
+
+build(deps): Bump Microsoft.Extensions.Configuration from 6.0.0 to 6.0.1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4caab2e</div>
+                                        <div class="message">Merge pull request #658 from VTPDevelopment/dependabot/nuget/development/Remora.Discord.Pagination-2.0.5
+
+build(deps): Bump Remora.Discord.Pagination from 2.0.4 to 2.0.5</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#139667e</div>
+                                        <div class="message">Merge pull request #656 from VTPDevelopment/dependabot/nuget/development/Microsoft.CodeAnalysis.CSharp.Scripting-4.1.0
+
+build(deps): Bump Microsoft.CodeAnalysis.CSharp.Scripting from 4.0.1 to 4.1.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d80786d</div>
+                                        <div class="message">Merge pull request #655 from VTPDevelopment/dependabot/nuget/development/Serilog.Extensions.Hosting-4.2.0
+
+build(deps): Bump Serilog.Extensions.Hosting from 4.1.2 to 4.2.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f9e352</div>
+                                        <div class="message">build(deps): Bump Config.Net.Json from 4.17.0 to 4.19.0
+
+Bumps [Config.Net.Json](https://github.com/aloneguid/config) from 4.17.0 to 4.19.0.
+- [Release notes](https://github.com/aloneguid/config/releases)
+- [Changelog](https://github.com/aloneguid/config/blob/master/doc/ReleaseNotes.md)
+- [Commits](https://github.com/aloneguid/config/commits)
+
+---
+updated-dependencies:
+- dependency-name: Config.Net.Json
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b6214fc</div>
+                                        <div class="message">Merge pull request #654 from VTPDevelopment/dependabot/nuget/development/FluentValidation.DependencyInjectionExtensions-10.4.0
+
+build(deps): Bump FluentValidation.DependencyInjectionExtensions from 10.3.6 to 10.4.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#998a94b</div>
+                                        <div class="message">build(deps): Bump NUnit from 3.13.2 to 3.13.3
+
+Bumps [NUnit](https://github.com/nunit/nunit) from 3.13.2 to 3.13.3.
+- [Release notes](https://github.com/nunit/nunit/releases)
+- [Changelog](https://github.com/nunit/nunit/blob/v3.13.3/CHANGES.md)
+- [Commits](https://github.com/nunit/nunit/compare/v3.13.2...v3.13.3)
+
+---
+updated-dependencies:
+- dependency-name: NUnit
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7e5650</div>
+                                        <div class="message">build(deps): Bump Microsoft.Extensions.Configuration from 6.0.0 to 6.0.1
+
+Bumps [Microsoft.Extensions.Configuration](https://github.com/dotnet/runtime) from 6.0.0 to 6.0.1.
+- [Release notes](https://github.com/dotnet/runtime/releases)
+- [Commits](https://github.com/dotnet/runtime/compare/v6.0.0...v6.0.1)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.Extensions.Configuration
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7528c7d</div>
+                                        <div class="message">build(deps): Bump Remora.Discord.Pagination from 2.0.4 to 2.0.5
+
+Bumps [Remora.Discord.Pagination](https://github.com/Nihlus/Remora.Discord) from 2.0.4 to 2.0.5.
+- [Release notes](https://github.com/Nihlus/Remora.Discord/releases)
+- [Commits](https://github.com/Nihlus/Remora.Discord/commits)
+
+---
+updated-dependencies:
+- dependency-name: Remora.Discord.Pagination
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf849cd</div>
+                                        <div class="message">build(deps): Bump Microsoft.CodeAnalysis.CSharp.Scripting
+
+Bumps [Microsoft.CodeAnalysis.CSharp.Scripting](https://github.com/dotnet/roslyn) from 4.0.1 to 4.1.0.
+- [Release notes](https://github.com/dotnet/roslyn/releases)
+- [Changelog](https://github.com/dotnet/roslyn/blob/main/docs/Breaking%20API%20Changes.md)
+- [Commits](https://github.com/dotnet/roslyn/compare/v4.0.1...v4.1.0)
+
+---
+updated-dependencies:
+- dependency-name: Microsoft.CodeAnalysis.CSharp.Scripting
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71ba201</div>
+                                        <div class="message">build(deps): Bump Serilog.Extensions.Hosting from 4.1.2 to 4.2.0
+
+Bumps [Serilog.Extensions.Hosting](https://github.com/serilog/serilog-extensions-hosting) from 4.1.2 to 4.2.0.
+- [Release notes](https://github.com/serilog/serilog-extensions-hosting/releases)
+- [Commits](https://github.com/serilog/serilog-extensions-hosting/compare/v4.1.2...v4.2.0)
+
+---
+updated-dependencies:
+- dependency-name: Serilog.Extensions.Hosting
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cee34c</div>
+                                        <div class="message">build(deps): Bump FluentValidation.DependencyInjectionExtensions
+
+Bumps [FluentValidation.DependencyInjectionExtensions](https://github.com/JeremySkinner/fluentvalidation) from 10.3.6 to 10.4.0.
+- [Release notes](https://github.com/JeremySkinner/fluentvalidation/releases)
+- [Changelog](https://github.com/FluentValidation/FluentValidation/blob/main/Changelog.txt)
+- [Commits](https://github.com/JeremySkinner/fluentvalidation/compare/10.3.6...10.4.0)
+
+---
+updated-dependencies:
+- dependency-name: FluentValidation.DependencyInjectionExtensions
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb46e27</div>
+                                        <div class="message">[build core] Bump bot version</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c05ebf0</div>
+                                        <div class="message">fix(ratelimit): Don't attempt to open 400 DMs if 400 userbots join</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bebb435</div>
+                                        <div class="message">feat: add more phishing names</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c19a183</div>
+                                        <div class="message">feat: Optional ban notification</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#61c2595</div>
+                                        <div class="message">[build core] Lets ship it</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe042ca</div>
+                                        <div class="message">feat: new attachment logging strategy</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">VTPDevelopment/Silk</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">development</span></div>
                                     <div class="commit">
                                         <div class="sha">#fa3662a</div>
@@ -1785,76 +2017,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">VTPDevelopment/Silk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c407d7b</div>
-                                        <div class="message">[build core] 🐛 Use bot permissions instead of role permissions
-
-The role permissions would essentially fall under the same permissions as @everyone, makign the check useless</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">VTPDevelopment/Silk</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">development</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#09a5c37</div>
-                                        <div class="message">[build core] BBV &amp; Formatting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6366e78</div>
-                                        <div class="message">🐛 Ignore hierarchy for unmutes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c035b2b</div>
-                                        <div class="message">🐛 Deny SendMessages permission</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#805995d</div>
-                                        <div class="message">🐛 Check for mute before applying a new one</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#29b0468</div>
-                                        <div class="message">🐛 Generate overwrites when creating a mute role</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c6ba7e</div>
-                                        <div class="message">🐛 Subtract from role position instead of LINQ
-
-Instead of using LINQ to order the roles, and then skipping, and taking the first one, use the top role, and subtract one, using Math.Max to ensure we don't accidently hit a 400 by setting invalid role positions</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2022, 03:07:24 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 30 Mar 2022, 04:08:50 (timezone America/New_York) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
