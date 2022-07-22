@@ -649,7 +649,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 44.86906386723982%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 44.75013598694525%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">56%</span>
                             </div>
                         </div>
@@ -1822,7 +1822,7 @@ While I think the abrupt closure of this issue is anything but apt, I will say t
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 01:18:53 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 02:09:39 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
