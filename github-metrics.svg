@@ -649,8 +649,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 43.53909410173196%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 38.2880231760311%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">48%</span>
                             </div>
                         </div>
                     </section>
@@ -1815,7 +1815,7 @@ Most of these changes are exactly that, among with the areas I mentioned above.<
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jul 2022, 00:37:58 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 25 Jul 2022, 01:20:25 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
