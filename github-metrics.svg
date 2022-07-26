@@ -649,8 +649,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 42.95375448574717%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">54%</span>
+                                <div class="bar" style="width: 42.78391467595363%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">53%</span>
                             </div>
                         </div>
                     </section>
@@ -1841,7 +1841,7 @@ While analyzers are useful tools, they're not a substitute for A) People that kn
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2022, 04:08:54 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 26 Jul 2022, 05:10:58 (timezone America/New_York) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
